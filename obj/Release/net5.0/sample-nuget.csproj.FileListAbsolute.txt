@@ -1,0 +1,15 @@
+/Users/namratajha/registryTest/sample-nuget/bin/Release/net5.0/sample-nuget.deps.json
+/Users/namratajha/registryTest/sample-nuget/bin/Release/net5.0/sample-nuget.runtimeconfig.json
+/Users/namratajha/registryTest/sample-nuget/bin/Release/net5.0/sample-nuget.runtimeconfig.dev.json
+/Users/namratajha/registryTest/sample-nuget/bin/Release/net5.0/sample-nuget.dll
+/Users/namratajha/registryTest/sample-nuget/bin/Release/net5.0/ref/sample-nuget.dll
+/Users/namratajha/registryTest/sample-nuget/bin/Release/net5.0/sample-nuget.pdb
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.csproj.AssemblyReference.cache
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.GeneratedMSBuildEditorConfig.editorconfig
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.AssemblyInfoInputs.cache
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.AssemblyInfo.cs
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.csproj.CoreCompileInputs.cache
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.dll
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/ref/sample-nuget.dll
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.pdb
+/Users/namratajha/registryTest/sample-nuget/obj/Release/net5.0/sample-nuget.genruntimeconfig.cache
