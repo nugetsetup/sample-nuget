@@ -20,11 +20,11 @@ jobs:
         env:
           NUGET_AUTH_TOKEN: ${{ github.token }}
       - name: Build Nuget packages
-        run: dotnet build -p:PackageVersion=1.1.0-${{ github.sha }}
+        run: dotnet build
         env:
           sha: ${{ github.sha }}
       - name: Create the nuget package
-        run: dotnet pack sample-nuget.csproj -p:PackageVersion=1.1.0-${{ github.sha }} --configuration Release --output bin/Release/Publish
+        run: dotnet pack sample-nuget.csproj  --configuration Release --output bin/Release/Publish
         env:
           sha: ${{ github.sha }}
       - name: Publish to GitHub
