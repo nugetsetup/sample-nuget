@@ -28,6 +28,6 @@ jobs:
         env:
           sha: ${{ github.sha }}
       - name: Publish to GitHub
-        run: dotnet nuget push bin/Release/Publish/**/*.nupkg --api-key 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 --skip-duplicate
+        run: dotnet nuget push bin/Release/Publish/**/*.nupkg --api-key ${{secrets.GITHUB_TOKEN}} --skip-duplicate
         env:
           sha: ${{ github.sha }}
