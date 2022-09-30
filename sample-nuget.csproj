@@ -6,7 +6,7 @@
     <RootNamespace>sample_nuget</RootNamespace>
     <PackageId>sample-nuget</PackageId>
     <Authors>dwivedine</Authors>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <Company>github</Company>
     <RepositoryUrl>https://github.com/nugetsetup/sample-nuget</RepositoryUrl>
     <PackageTags>latest</PackageTags>
