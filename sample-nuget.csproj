@@ -8,7 +8,7 @@
     <Authors>namratajha</Authors>
     <Version>2.2.0</Version>
     <Company>github</Company>
-    <RepositoryUrl>https://github.com/sldfkjafsdfd/sample-nuget</RepositoryUrl>
+    <RepositoryUrl>https://github.com/nugetsetup/sample-nuget</RepositoryUrl>
     <PackageTags>latest</PackageTags>
   </PropertyGroup>
 
