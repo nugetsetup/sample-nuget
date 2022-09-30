@@ -5,8 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>sample_nuget</RootNamespace>
     <PackageId>sample-nuget</PackageId>
-    <Authors>namratajha</Authors>
-    <Version>2.2.0</Version>
+    <Authors>dwivedine</Authors>
+    <Version>1.1.0</Version>
     <Company>github</Company>
     <RepositoryUrl>https://github.com/nugetsetup/sample-nuget</RepositoryUrl>
     <PackageTags>latest</PackageTags>
